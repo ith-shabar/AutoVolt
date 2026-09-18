@@ -1,6 +1,6 @@
 # AutoVolt
 
-![AutoVolt](docs/images/)
+![AutoVolt](./docs/images/image.png)
 
 An **automatic Li-ion battery charger** that loads empty batteries, charges them, and dispenses charged batteries — a hands-free, automated battery management station.
 
